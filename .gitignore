@@ -35,6 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+=======
 
 *.yml
 *.properties
+>>>>>>> main
